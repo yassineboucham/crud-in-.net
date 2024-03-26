@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yassi\\crud-in-.net\\crud-in-.net.csproj",
+      "projectUniqueName": "C:\\Users\\yassi\\crud\\crud-in-.net.csproj",
       "projectName": "crud-in-.net",
-      "projectPath": "C:\\Users\\yassi\\crud-in-.net\\crud-in-.net.csproj",
+      "projectPath": "C:\\Users\\yassi\\crud\\crud-in-.net.csproj",
       "packagesPath": "C:\\Users\\yassi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yassi\\crud-in-.net\\obj\\",
+      "outputPath": "C:\\Users\\yassi\\crud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yassi\\AppData\\Roaming\\NuGet\\NuGet.Config"
