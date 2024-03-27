@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crud-in-.net")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7ffa0a8d4d8df7c17122491812066aa3b9c058e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b52da8f88c64b645a57dc0df74c23e7544cf07fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("crud-in-.net")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crud-in-.net")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
